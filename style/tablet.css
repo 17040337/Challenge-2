@@ -1,0 +1,23 @@
+@media only screen and (min-width: 601px) and (max-width:1024px) {
+    #main-main section .row {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+    }
+    
+    body{
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    #headerspace {
+        font-size: 50px;
+    }
+    
+    #text{
+        font-size: 40px;
+    }
+    
+ 
+}
